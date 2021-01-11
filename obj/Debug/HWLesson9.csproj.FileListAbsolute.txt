@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\HWLesson9\HWLesson9\bin\Debug\HWLesson9.exe.config
+C:\Users\User\source\repos\HWLesson9\HWLesson9\bin\Debug\HWLesson9.exe
+C:\Users\User\source\repos\HWLesson9\HWLesson9\bin\Debug\HWLesson9.pdb
+C:\Users\User\source\repos\HWLesson9\HWLesson9\obj\Debug\HWLesson9.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HWLesson9\HWLesson9\obj\Debug\HWLesson9.Form1.resources
+C:\Users\User\source\repos\HWLesson9\HWLesson9\obj\Debug\HWLesson9.Properties.Resources.resources
+C:\Users\User\source\repos\HWLesson9\HWLesson9\obj\Debug\HWLesson9.csproj.GenerateResource.cache
+C:\Users\User\source\repos\HWLesson9\HWLesson9\obj\Debug\HWLesson9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HWLesson9\HWLesson9\obj\Debug\HWLesson9.exe
+C:\Users\User\source\repos\HWLesson9\HWLesson9\obj\Debug\HWLesson9.pdb
